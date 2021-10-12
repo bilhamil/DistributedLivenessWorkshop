@@ -11,11 +11,11 @@ Andrew is an Assistant Professor of Computer Science at Louisiana State Universi
 
 ### Alina Striner
 ![image](../assets/images/alina.png){: .profile}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Alina is a postdoctoral researcher at CWI (Centrum Wiskunde & Informatica) in Amsterdam. Her doctoralresearch focused using multisensory VR to train qualitative judgment tasks. Alina’s current research focuses ondesigning immersive and interactive audience experiences in virtual environments.
 
 ### Noor Hammad
 ![image](../assets/images/noor.jpg){: .profile}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Noor is a PhD student in the Human-Computer Interaction Institute at Carnegie Mellon University. Herresearch focuses on designing participatory experiences on live stream platforms such as Twitch and YouTube Live.
 
 ### Bill Hamilton
 ![image](../assets/images/bill_profile_square.png){: .profile}
@@ -27,5 +27,5 @@ Amy is an Assistant Professor of Computer Science at the University of Memphis. 
 
 ### Erik Harpstead
 ![image](../assets/images/erik.jpg){: .profile}
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Erik is a Systems Scientist in the Human-Computer Interaction Institute at Carnegie Mellon University.His research focuses on design and analysis of novel systems for play and learning. His recent work has focused ondeveloping tools to support research and design of audience participation on live streaming platforms like Twitch.
 
