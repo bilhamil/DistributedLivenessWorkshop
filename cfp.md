@@ -2,12 +2,8 @@
 title: Call for Participation
 ---
 
-Provide a 250-word Call for Participation that will be posted on the conference site to recruit participants for your workshop. This should appear at the end of your workshop proposal, and should include the following:
+Our workshop "Tearing Down The Dark Wall - Designing For Distributed Liveness" addresses the growing need for novel methods of experiencing live events. The COVID-19 pandemic has fundamentally altered the ways in which we attend conferences, classes, social gatherings, and other live events. What once was an experience built around physical co-presence now has audiences distributed around the world tuning in on their own devices. This forced move to distributed liveness was enabled by various platforms and tools such as Discord, Twitch, and Zoom, with practitioners using these tools ad-hoc to design ways to continue hosting their respective events.
 
-*  The format (including adequacy to virtual, online, hybrid format) and goals of the workshop
-*  The participant selection criteria
-*  Requirements for participants’ submissions (e.g. topics to address, page length, format)
-*  Where these papers should be submitted an whether they will be public
-*  The requirement that at least one author of each accepted submission must attend the workshop and that all participants must register for both the workshop and for at least one day of the conference.
-*  A link to the workshop website.
-\end{itemize}
+This workshop's objective is to understand and evaluate the methods that practitioners have used to design distributed live experience, and in the process, establish the next steps in the design of such experiences. We invite researchers, teachers, designers, and performers to submit artifacts that either 1.) describe their created approaches to support distributed live events or 2.) suggest inspired visions to facilitate co-presence among distributed participants. This will be a one day, in-person  workshop.
+
+To apply to the workshop, submit an artifact in the form of a position paper (5 pages max), pictorial,  design fiction, or video prototype through our workshop webpage. The submission deadline is TBD. Submissions will be reviewed by the workshop organizers, and accepted submissions will be made available on the webpage. Upon acceptance, at least one author from each submission must register to attend the workshop, and all participants must register for both the workshop and at least one day of the conference.
