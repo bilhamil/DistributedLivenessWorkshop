@@ -1,5 +1,5 @@
 ---
-title: 
+title: Organizers
 feature_image: "../assets/images/headphone_feature.jpg"
 
 ---
