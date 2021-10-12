@@ -22,7 +22,7 @@ plugins:
 
 # Site settings
 url: 'https://bilhamil.github.io/'
-baseurl: '/DistributedLivenessWorkshop'
+baseurl: '/'
 domain: bilhamil.github.io
 title: 'CHI 2022 Workshop on Distributed Liveness'
 description: ''
