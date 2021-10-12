@@ -3,7 +3,8 @@ title: false
 styles: true
 ---
 $backgroundColour: #22272E !default;
-$linkColour: #b8291a !default;
+$captionColour: #dcac1f !default;
+$linkColour: #a8adac !default;
 $bodyColour: lightgray !default;
 $headingColour: white !default;
 $hoverColour: #fec71f !default;
@@ -12,6 +13,18 @@ $hoverColour: #fec71f !default;
 
 .footer {
 	background: #0D0F11;
+	color: $bodyColour;
+	
+	a {
+    color: $bodyColour;
+    &:hover {
+      color: $backgroundColour;
+    }
+  }
+}
+
+.small {
+	color: $bodyColour;
 }
 
 img.profile {
