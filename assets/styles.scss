@@ -37,3 +37,8 @@ img.profile {
 .logo img {
     max-height: 4rem;
 }
+
+a:focus, a:hover:focus, button:focus, button:hover:focus, .button:focus, .button:hover:focus, input:focus, input:hover:focus, textarea:focus, textarea:hover:focus, select:focus, select:hover:focus
+{
+	outline-color: $hoverColour;
+}
