@@ -27,7 +27,7 @@ domain: bilhamil.github.io
 title: 'CHI 2022 Workshop on Distributed Liveness'
 description: ''
 permalink: pretty
-logo: "assets/images/logo.png"
+logo: "/assets/images/logo.png"
 
 # Pagination
 paginate: 5
